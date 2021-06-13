@@ -39,17 +39,17 @@ function submitForm(e, formName) {
         message: message
     };
 
-    $.ajax({
-        type: "POST",
-        url: 'mail.php',
-        data: formData,
-        success: function () {
-            console.log('success');
-            //...
-        },
-        error: function () {
-            console.log('error');
-            //...
-        }
-    });
+//     $.ajax({
+//         type: "POST",
+//         url: 'mail.php',
+//         data: formData,
+//         success: function () {
+//             console.log('success');
+//             //...
+//         },
+//         error: function () {
+//             console.log('error');
+//             //...
+//         }
+//     });
 }
