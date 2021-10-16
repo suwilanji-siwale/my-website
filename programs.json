@@ -1,0 +1,18 @@
+﻿[
+  {
+    "program_id": 1,
+    "program_name": "Big Bang Breakfast",
+    "program_host_name": "Ksix and Flower Bomb",
+    "program_start_time": "06:00hrs",
+    "program_end_time": "10:00hrs",
+    "program_duration": "4hrs"
+  },
+  {
+    "program_id": 2,
+    "program_name": "Detour",
+    "program_host_name": "Zhu",
+    "program_start_time": "22:00hrs",
+    "program_end_time": "23:00hrs",
+    "program_duration": "2hrs"
+  }
+]
